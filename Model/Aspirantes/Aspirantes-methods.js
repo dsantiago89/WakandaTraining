@@ -1,0 +1,1 @@
+﻿model.Aspirantes.collectionMethods.conseguirDatos = function() {		return {		tamaño 		: this.length,		minimo		: this.min("pruebasCollection.numero"),		maximo		: this.max("pruebasCollection.numero"),		media		: this.average("pruebasCollection.numero"),		sumatorio	: this.sum("pruebasCollection.numero")		}	};

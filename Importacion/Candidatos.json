@@ -1,0 +1,9 @@
+{ "aspirantes" : [ 
+	{ "nombre" : "nombre1" , "apellidos" : "apellidos1" } , 
+	{ "nombre" : "nombre2" , "apellidos" : "apellidos2" } ,
+	{ "nombre" : "nombre3" , "apellidos" : "apellidos3" } ,
+	{ "nombre" : "nombre4" , "apellidos" : "apellidos4" } ,
+	{ "nombre" : "nombre5" , "apellidos" : "apellidos5" } ,
+	{ "nombre" : "nombre6" , "apellidos" : "apellidos6" } 
+	] 
+}

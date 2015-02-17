@@ -1,0 +1,1 @@
+﻿//ds.Empresas.remove();for(var i = 0;i < 5;i++){	var entity = new ds.Empresas(); //Instanciar una nueva entidad	entity.nombre = "Empresa" + i;	entity.numero = i + 1;	entity.calle = "Calle" + i;	entity.codigoPostal	= "28300";	entity.ciudad = "Madrid";	entity.save(); //Guardar la entidad}ds.Empresas.all(); //Mostrar todas las entidades de la clase Empresas;

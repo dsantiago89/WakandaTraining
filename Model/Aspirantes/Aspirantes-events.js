@@ -1,0 +1,1 @@
+﻿model.Aspirantes.nombreCompleto.onGet = function() {	return this.nombre + " " +this.apellidos;};model.Aspirantes.nombreCompleto.onSet = function(value) {	value = this.nombre + " " + this.apellidos;};

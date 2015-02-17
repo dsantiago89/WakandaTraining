@@ -1,0 +1,1 @@
+﻿include("./Model/Aspirantes/Aspirantes-events.js");include("./Model/Empresas/Empresas-events.js");include("./Model/Aspirantes/Aspirantes-methods.js");include("./Model/Fotos_extend/Fotos_extend-events.js");

@@ -1,0 +1,35 @@
+{
+	"name": "WakandaTraining/comp1.waComponent",
+	"version": "1.0.0",
+	"webComponent": "comp1.waComponent/comp1.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/button",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/container",
+			"type": "widget"
+		},
+		{
+			"id": "comp1.waComponent/comp1.html",
+			"path": "WEBFOLDER",
+			"type": "html"
+		},
+		{
+			"id": "comp1.waComponent/comp1.css",
+			"path": "WEBFOLDER",
+			"type": "style"
+		},
+		{
+			"id": "comp1.waComponent/styles/comp1.css",
+			"path": "WEBFOLDER",
+			"type": "style"
+		},
+		{
+			"id": "comp1.waComponent/comp1.js",
+			"path": "WEBFOLDER",
+			"type": "script"
+		}
+	]
+}

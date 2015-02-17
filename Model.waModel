@@ -1,0 +1,335 @@
+{
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"Empresas": {
+				"panelColor": "#D7E3BC",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 78,
+						"Y": 364
+					}
+				}
+			},
+			"Pruebas": {
+				"panelColor": "#fff",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 83,
+						"Y": 751
+					}
+				}
+			},
+			"Candidatos": {
+				"panelColor": "#D88CFF",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 109,
+						"Y": 21
+					}
+				}
+			},
+			"Fotos": {
+				"panelColor": "#996699",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 25,
+						"Y": 5
+					}
+				}
+			},
+			"Fotos_extend": {
+				"panelColor": "#D8D8D8",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 25,
+						"Y": 170
+					}
+				}
+			}
+		},
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 0,
+			"workspaceTop": 0,
+			"lastScriptLocation": {
+				"Empresas": {
+					"computed": "Empresas/Empresas-events.js"
+				},
+				"Candidatos": {
+					"computed": "Aspirantes/Aspirantes-events.js",
+					"method": "Aspirantes/Aspirantes-methods.js"
+				},
+				"Fotos_extend": {
+					"events": "Fotos_extend/Fotos_extend-events.js"
+				}
+			}
+		}
+	},
+	"dataClasses": [
+		{
+			"name": "Candidatos",
+			"className": "Candidatos",
+			"collectionName": "CandidatosCollection",
+			"matchTable": "Aspirantes,Applicant",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "nombre",
+					"kind": "storage",
+					"scope": "public",
+					"not_null": true,
+					"type": "string"
+				},
+				{
+					"name": "apellidos",
+					"kind": "storage",
+					"scope": "public",
+					"not_null": true,
+					"type": "string"
+				},
+				{
+					"name": "fechaNacimiento",
+					"kind": "storage",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": true
+				},
+				{
+					"name": "direccion",
+					"kind": "storage",
+					"matchColumn": "telefono",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "codigoPostal",
+					"kind": "storage",
+					"matchColumn": "foto",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "pruebasCollection",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "PruebasCollection",
+					"reversePath": true,
+					"path": "candidato"
+				}
+			]
+		},
+		{
+			"name": "Empresas",
+			"className": "Empresas",
+			"collectionName": "EmpresasCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "nombre",
+					"kind": "storage",
+					"scope": "public",
+					"not_null": true,
+					"type": "string"
+				},
+				{
+					"name": "codigoPostal",
+					"kind": "storage",
+					"scope": "public",
+					"not_null": true,
+					"type": "string"
+				},
+				{
+					"name": "ciudad",
+					"kind": "storage",
+					"scope": "public",
+					"not_null": true,
+					"type": "string"
+				},
+				{
+					"name": "provincia",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "web",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "email",
+					"kind": "storage",
+					"scope": "public",
+					"limiting_length": 40,
+					"unique": true,
+					"type": "string"
+				},
+				{
+					"name": "telefono",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "direccion",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "actividad",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "pruebasCollection",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "PruebasCollection",
+					"reversePath": true,
+					"path": "empresa"
+				}
+			]
+		},
+		{
+			"name": "Fotos",
+			"className": "Fotos",
+			"collectionName": "FotosCollection",
+			"scope": "publicOnServer",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "Nombre",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "Foto",
+					"kind": "storage",
+					"scope": "public",
+					"type": "image"
+				}
+			]
+		},
+		{
+			"name": "Fotos_extend",
+			"className": "Fotos_extend",
+			"collectionName": "Fotos_extendCollection",
+			"scope": "public",
+			"extends": "Fotos",
+			"attributes": [
+				{
+					"name": "dddd",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "string",
+					"scriptKind": "javascript"
+				}
+			],
+			"events": [
+				{
+					"kind": "restrict",
+					"from": "$mainModel.Fotos_extend.events.restrict",
+					"userDefined": true
+				}
+			]
+		},
+		{
+			"name": "Pruebas",
+			"className": "Pruebas",
+			"collectionName": "PruebasCollection",
+			"scope": "public",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"scope": "public",
+					"unique": true,
+					"autosequence": true,
+					"type": "long",
+					"primKey": true
+				},
+				{
+					"name": "empresa",
+					"kind": "relatedEntity",
+					"matchColumn": "Empresa",
+					"scope": "public",
+					"type": "Empresas",
+					"path": "Empresas"
+				},
+				{
+					"name": "candidato",
+					"kind": "relatedEntity",
+					"matchColumn": "aspirante,Aspirante",
+					"scope": "public",
+					"type": "Candidatos",
+					"path": "Candidatos"
+				},
+				{
+					"name": "fechaInicio",
+					"kind": "storage",
+					"matchColumn": "FechaInicio",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": true
+				},
+				{
+					"name": "fechaFinal",
+					"kind": "storage",
+					"matchColumn": "FechaFinal",
+					"scope": "public",
+					"type": "date",
+					"simpleDate": true
+				},
+				{
+					"name": "numero",
+					"kind": "storage",
+					"matchColumn": "Numero",
+					"scope": "public",
+					"type": "number"
+				}
+			]
+		}
+	]
+}

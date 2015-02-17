@@ -1,0 +1,77 @@
+12,Especialidades Medicas Tonal S.L.  , 8225, Terrassa, Barcelona, www.tonal.es, tonal@tonal.es,34, C MAESTRAT, 41, 011101 - DENTISTAS: CIRUJANOS DENTISTAS Y DOCTORES EN CIRUGÍA DENTAL,
+
+13, Alonso Juaristi Sofia, 39002, Santander, Cantabria, www.alergiacantabria.com, asuarez@alergiacantabria.com,34, CALL ISABEL II, 13, 011103 - MÉDICOS: ALERGOLOGÍA,
+
+14, Centro Radio Oncologico Andaluz S.A.  , 29016, Malaga, Málaga, www.croasa.com, info@croasa.com,34, La Era, 6, 011163 - DOCTORES EN MEDICINA,
+
+15, Bionets S L  , 8440, Cardedeu, Barcelona, www.bionets.net, bionets@telefonica.net,34, C TORRENT LLIBRE, 16, 011202 - DIETISTAS,
+
+16, Traiber S. A.  , 43006, Reus, Tarragona, www.traiber.es, traiber@traiber.es,34, C JOAN OLIVER, 13, 011414 - VENTA, LOCALIZACIÓN, REPARACIÓN DE MATERIAL E INSTRUMENTAL MÉDICO-QUIRÚRGICO,
+
+17, Andsel 600 S.L.  , 8025, Barcelona, Barcelona, www.andsel.com, ut@andsel.com,34, TRAV DE GRACIA, 417, 011425 - ELECTROMEDICINA: EQUIPO,
+
+18, Copias Centro Gran Via S.L.  , 28015, Madrid, Madrid, www.copiascentrogranvia.es, copias@teleline.es,34, PLAZ MOSTENSES, 13, 012114 - ARTES GRÁFICAS, ARTES PLÁSTICAS (CURSO),
+
+19, EGRAF S. A.  , 28031, Madrid, Madrid, www.egraf.es, comercial@egraf.es,34, CALL LUIS I, 1, 012114 - ARTES GRÁFICAS, ARTES PLÁSTICAS (CURSO),
+
+20, Kailash Model S.L.  , 28013, Madrid, Madrid, www.kailash.es, kailash@kailash.es,34, PLAZ CALLAO, 4, 015218 - EMPRESARIOS Y PRODUCTORAS DE ESPECTÁCULOS,
+
+21, Centre D'Investigacio I Recerca Teatral I Artistica S.A.  , 8011, Barcelona, Barcelona, www.villarroelteatre.com, info@lavillarroel.cat,34, C VILLARROEL, 87, 015255 - TEATROS Y SALAS DE ESPECTÁCULOS,
+
+22, Alfa Eventos y Protocolo S.L.  , 28224, POZUELO DE ALARCON, Madrid, www.alfaeventos.com, info@alfaeventos.com,34, CTRA HUMERA (DE), 87, 015269 - ORGANIZACIÓN DE ACTOS, SEMINARIOS Y CONGRESOS,
+
+23, IAM INFORMATICA DEL AYUNTAMIENTO DE MADRID  , 28045, Madrid, Madrid, www.planetmad.es, antonio.alonso@planetmad.es,34, AVDA PLANETARIO, S/N, 016100 - ARTE, CULTURA, EDICIÓN,
+
+24, Domenech Matillo Lluis, 17165, Cellera Ter, Girona, www.lluisdomenech.com, restauracio@lluisdomenech.com,34, CARR AULET, 2, 016101 - COMPRAVENTA DE ANTIGÜEDADES,
+
+25, Mararte S.L.  , 28010, Madrid, Madrid, www.galeriadelcisne.com, galeriadelcisne@tiscali.es,34, PASE EDUARDO DATO, 17, 016102 - COMPRAVENTA DE OBRAS DE ARTE Y DE COLECCIONISMO,
+
+26, Cuatelart S.L.  , 25191, Lleida, Lleida, www.cuatelart.com, cuatel@cuatelart.com,34, Pol. Ind. Les Canals, S/N, 016112 - COMERCIO DE CUADROS, LÁMINAS Y REPRODUCCIONES DE OBRAS DE ARTE,
+
+27, Tediscome S.L.  , 50001, Zaragoza, Zaragoza, www.tedisco.com, tedisco@tedisco.com,34, CALL BLANCAS, 2, 016114 - DIBUJANTES (DIVERSOS),
+
+28, Geodata Sistemas S.L.  , 8020, Barcelona, Barcelona, www.geodata.es, info@geodata.es,34, C BAC DE RODA, 136, 016119 - EDICIÓN DE MAPAS, GUÍAS Y PLANOS,
+
+29, A.T.C. Ediciones S.L.  , 28014, Madrid, Madrid, www.tectonica.es, tectonica@tectonica.es,34, PASE PRADO, 24, 016120 - EDICIÓN DE DIARIOS, REVISTAS, BOLETINES,
+
+30, Editorial Bolina S.L.  , 28037, Madrid, Madrid, www.editorialbolina.com, correo@editorialbolina.com,34, CALL SAN SOTERO, 11, 016120 - EDICIÓN DE DIARIOS, REVISTAS, BOLETINES,
+
+31, Promociones Artisticas de Barcelona S.L.  , 8007, Barcelona, Barcelona, www.galerialluciahoms.es, galeria@galerialluciahoms.es,34, C CONSELL DE CENT, 315, 016124 - GALERÍAS DE ARTE,
+
+32, Libreria Arenas S.L.  , 15003, CORUÑA, A Coruña, www.libreriaarenas.com, info@libreriaarenas.com,34, CANT PEQUEÑO, 25, 016129 - LIBRERÍAS,
+
+33, Gramontell Bermudez Jose Raimundo, 11003, Cadiz, Cádiz, www.libreriaraimundo.com, info@libreriaraimundo.com,34, CALL SAN JOSE, 35, 016129 - LIBRERÍAS,
+
+34, WING CHAIR S.A.  , 46960, Aldaia, Valencia, www.wingchair.es, wingchair@wingchair.es,34, Ctra Aldaia-Xirivella, KM. 0000,2, 023109 - FABRICACIÓN DE MUEBLES,
+
+35, Codi Contract S. L.  , 17457, Riudellots Selva, Girona, www.aridi.es, aridi@aridi.es,34, Pol. Industrial, S/N, 023109 - FABRICACIÓN DE MUEBLES,
+
+36, Gilet Oficina S.A.  , 7800, Eivissa, Islas Baleares, www.giletoficina.com, info@giletoficina.com,34, CARR FRA VICENT NICOLAU, 5, 023112 - FABRICACIÓN DE MOBILIARIO DE OFICINA,
+
+37, Kayso Mobiliario S.L.  , 8007, Barcelona, Barcelona, www.esteliberica.com, atencioncliente@esteliberica.com,34, C VALENCIA, 213, 023112 - FABRICACIÓN DE MOBILIARIO DE OFICINA,
+
+38, GRUPO EMPRESARIAL ADEC S.L.  , 28500, Arganda, Madrid, www.adec.es, adec@adec.es,34, Doctor Fleming, 13, 023114 - FABRICACIÓN DE TABURETES, SILLAS Y SILLONES,
+
+39, Guitarras Francisco Esteve S. A.  , 46120, Alboraya, Valencia, www.guitarrasesteve.com, g.esteve@guitarrasesteve.com,34, CARR MAR, 19, 024214 - FABRICACIÓN DE INSTRUMENTOS Y ACCESORIOS MUSICALES,
+
+40, Alda S. L.  , 50010, Zaragoza, Zaragoza, www.aldasl.es, alda@aldasl.es,34, CALL ARIAS, 14, 024303 - SUMINISTROS PARA HOTELES,
+
+41, Faimagen S A L  , 46700, Benirredra, Valencia, www.faimagen.com, faimagen@faimagen.com,34, La Safor, 6, 025105 - FABRICACIÓN DE BOLSOS Y BOLSOS DE TELA,
+
+42, Belpla S. A.  , 46890, Agullent, Valencia, www.belpla.com, belpla@belpla.es,34, CARR MARQUES (EL), S/N, 025106 - FABRICACIÓN DE MANTAS,
+
+43, Ciprian Garces Ester Palmira, 8358, Arenys Munt, Barcelona, www.esterciprian.com, info@esterciprian.com,34, AV PANAGALL, 76, 025128 - ESTILISTAS, ESTUDIOS DE DISEÑO DE TELAS,
+
+44, Esmu bcn S.L.  , 8110, Masrampinyo, Barcelona, www.esmubcn.com, esmubcn@esmubcn.com,34, E. Morera (Po In Moli d'En Bisbe), 3, 029307 - FABRICACIÓN DE MOLDES Y MODELOS,
+
+45, Laip S.A.  , 48220, TRAçA-MATIENA, Vizcaya, www.laip.es, laip@laip.es,34, CALL ARZUBIA, 2, 029314 - FABRICACIÓN Y COMERCIO DE MÁQUINAS - HERRAMIENTAS,
+
+46, Suministros Industriales y del Embalaje S. A.  , 8018, Barcelona, Barcelona, www.siesa.es, siesa@siesa.es,34, C ALABA, 140, 029319 - HERRAMIENTAS MANUALES (FABRICACIÓN, AL POR MAYOR),
+
+47, Alarcon Celaya Aurelio, 2630, Roda, Albacete, www.cipingenieros.com, cipingenieros@cipingenieros.com,34, AVDA RAMON Y CAJAL, 56, 110102 - ARQUITECTOS,
+
+48, Arquide Estudio S.L.  , 28015, Madrid, Madrid, www.arquide.es, arquide@arquide.es,34, CALL FERNANDO EL CATOLICO, 11, 110102 - ARQUITECTOS,
+
+49, Mobiltac S.A.  , 17740, Vilafant, Girona, www.mobiltac.com, albert@mobiltac.com ,34, U. Les Forques, S/N, 111124 - FABRICACIÓN DE BIBLIOTECAS Y ESTANTERÍAS,
+
+50, EXCLUSIVAS MESQUIDA Y ROSS S.L.  , 7800, Eivissa, Islas Baleares, www.ibitel.es, ibitel@ibitel.es,34, CARR EXTREMADURA, 1, 211111 - FABRICACIÓN, IMPORTACIÓN, VENTA DE MATERIAL DE TELEFONÍA, PERITELEFONÍA,
